@@ -11,6 +11,7 @@ namespace LabNet2022.HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.ReadLine();
         }
     }
 }
