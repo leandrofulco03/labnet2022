@@ -1,0 +1,8 @@
+C:\Users\leand\source\Repos\labnet2022\LabNet2022.HelloWorld\LabNet2022.HelloWorld\bin\Debug\LabNet2022.HelloWorld.exe.config
+C:\Users\leand\source\Repos\labnet2022\LabNet2022.HelloWorld\LabNet2022.HelloWorld\bin\Debug\LabNet2022.HelloWorld.exe
+C:\Users\leand\source\Repos\labnet2022\LabNet2022.HelloWorld\LabNet2022.HelloWorld\bin\Debug\LabNet2022.HelloWorld.pdb
+C:\Users\leand\source\Repos\labnet2022\LabNet2022.HelloWorld\LabNet2022.HelloWorld\obj\Debug\LabNet2022.HelloWorld.csproj.AssemblyReference.cache
+C:\Users\leand\source\Repos\labnet2022\LabNet2022.HelloWorld\LabNet2022.HelloWorld\obj\Debug\LabNet2022.HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\leand\source\Repos\labnet2022\LabNet2022.HelloWorld\LabNet2022.HelloWorld\obj\Debug\LabNet2022.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\Repos\labnet2022\LabNet2022.HelloWorld\LabNet2022.HelloWorld\obj\Debug\LabNet2022.HelloWorld.exe
+C:\Users\leand\source\Repos\labnet2022\LabNet2022.HelloWorld\LabNet2022.HelloWorld\obj\Debug\LabNet2022.HelloWorld.pdb
